@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Database\\hotel_booking\\hotel_booking.csproj": {}
+    "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj": {}
   },
   "projects": {
-    "D:\\Database\\hotel_booking\\hotel_booking.csproj": {
+    "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Database\\hotel_booking\\hotel_booking.csproj",
+        "projectUniqueName": "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj",
         "projectName": "hotel_booking",
-        "projectPath": "D:\\Database\\hotel_booking\\hotel_booking.csproj",
-        "packagesPath": "C:\\Users\\ASHKAR\\.nuget\\packages\\",
-        "outputPath": "D:\\Database\\hotel_booking\\obj\\",
+        "projectPath": "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASHKAR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
