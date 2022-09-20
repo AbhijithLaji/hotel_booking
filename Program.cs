@@ -72,6 +72,14 @@ app.MapPost("/booking", async (Booking booking, HotelDb db) =>
     return Results.Created($"/booking/{booking.Id}", booking);
 });
 
+app.MapPost("/can-book",async (Booking booking,HotelDb db)=>{
+    var room=await db.Rooms.
+                            Where(
+                                r=>r.AdultCapacity>=booking.AdultNumber&&r.ChildCapacity>=booking.ChildNumber
+                            ).SingleOrDefaultAsync();
+                    return Results.Ok(room);
+
+});
 app.Run();
 
 class Room
@@ -98,6 +106,7 @@ class Booking
     public int AdultNumber {get; set;}
     public int ChildNumber {get; set;}
     public int RoomId { get; set; }
+    public int RoomNo { get; set; }
 }
 
 class HotelDb : DbContext

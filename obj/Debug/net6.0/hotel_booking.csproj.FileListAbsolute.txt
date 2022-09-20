@@ -64,3 +64,36 @@ D:\IONAUGHT\HeadfittedTraining\hotel_booking\obj\Debug\net6.0\refint\hotel_booki
 D:\IONAUGHT\HeadfittedTraining\hotel_booking\obj\Debug\net6.0\hotel_booking.pdb
 D:\IONAUGHT\HeadfittedTraining\hotel_booking\obj\Debug\net6.0\hotel_booking.genruntimeconfig.cache
 D:\IONAUGHT\HeadfittedTraining\hotel_booking\obj\Debug\net6.0\ref\hotel_booking.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\appsettings.Development.json
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\appsettings.json
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\hotel_booking.exe
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\hotel_booking.deps.json
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\hotel_booking.runtimeconfig.json
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\hotel_booking.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\hotel_booking.pdb
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Project\React\hotel\hotel_booking\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.csproj.AssemblyReference.cache
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.AssemblyInfoInputs.cache
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.AssemblyInfo.cs
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.csproj.CoreCompileInputs.cache
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.MvcApplicationPartsAssemblyInfo.cs
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.MvcApplicationPartsAssemblyInfo.cache
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\scopedcss\bundle\hotel_booking.styles.css
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.csproj.CopyComplete
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.dll
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\refint\hotel_booking.dll
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.pdb
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\hotel_booking.genruntimeconfig.cache
+D:\My Project\React\hotel\hotel_booking\obj\Debug\net6.0\ref\hotel_booking.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj": {}
+    "D:\\My Project\\React\\hotel\\hotel_booking\\hotel_booking.csproj": {}
   },
   "projects": {
-    "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj": {
+    "D:\\My Project\\React\\hotel\\hotel_booking\\hotel_booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj",
+        "projectUniqueName": "D:\\My Project\\React\\hotel\\hotel_booking\\hotel_booking.csproj",
         "projectName": "hotel_booking",
-        "projectPath": "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\hotel_booking.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\IONAUGHT\\HeadfittedTraining\\hotel_booking\\obj\\",
+        "projectPath": "D:\\My Project\\React\\hotel\\hotel_booking\\hotel_booking.csproj",
+        "packagesPath": "C:\\Users\\ABHIJITH\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\React\\hotel\\hotel_booking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ABHIJITH\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
